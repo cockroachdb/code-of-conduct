@@ -1,5 +1,3 @@
-# CockroachDB Code of Conduct
-
 ## Who this Code of Conduct applies to?
 The CoC applies to members of the CockroachDB community: participants to the community Slack, participants in discussions on GitHub including CockroachDB developers and external contributors, participants to the community forum, and generally online forums where CockroachDB development is being discussed under moderation by Cockroach Labs.
 
