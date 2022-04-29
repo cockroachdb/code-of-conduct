@@ -42,7 +42,7 @@ In case of doubt, open a conversation in good faith with the moderation team. We
 ### Possible violation by a member of the moderation team
 If you are concerned with the behavior of a current member of the moderation team, you may not feel comfortable contacting the moderation team, as all members will see your request.
 
-In that case, you can contact the current (vice/co) chairs of the moderation team. Their email addresses are listed on the [Moderation Team page](). The chairs will follow the usual enforcement process with the other members, but will exclude the member(s) that your report concerns from any discussion or decision making.
+In that case, you can contact the current (vice/co) chairs of the moderation team. Their email addresses are listed on the [Moderation Team page](https://github.com/cockroachdb/code-of-conduct/blob/main/moderation-team.md). The chairs will follow the usual enforcement process with the other members, but will exclude the member(s) that your report concerns from any discussion or decision making.
 
 If you are concerned with the behavior of all current (vice/co) chairs of the moderation team please send your report directly to the CRL Developer Relations leadership via <lisa@cockroachlabs.com> instead.
 ### Reconsideration
