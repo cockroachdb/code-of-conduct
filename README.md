@@ -1,4 +1,4 @@
-## Who this Code of Conduct applies to?
+## To Whom Does This Code of Conduct Apply?
 The CoC applies to members of the CockroachDB community: participants to the community Slack, participants in discussions on GitHub including CockroachDB developers and external contributors, participants to the community forum, and generally online forums where CockroachDB development is being discussed under moderation by Cockroach Labs.
 
 ## Code of Conduct
@@ -9,11 +9,12 @@ The CoC applies to members of the CockroachDB community: participants to the com
 - **Be respectful.** We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Also remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 - **When we disagree, try to understand why.** Different people have different perspectives. Disagreeing with someone’s viewpoint or  misunderstanding why someone holds that viewpoint doesn’t mean that they’re wrong or acting in bad faith. Remember that it is human to err. Focus on helping to resolve issues and learning from mistakes.
 
-## Unacceptable behavior
+## Unacceptable Behavior
 - We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We adopt and incorporate the term “harassment” as  defined in the [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md#4-unacceptable-behavior); if you don’t understand about what is included or excluded from this definition of harassment, please refer to the Citizen Code of Conduct’s definition of harassment. To make the point even clearer, we don’t tolerate behavior that excludes people in socially marginalized groups.
 - The moderation team reserves itself the right to restrict community access to folks based on their recent pattern of behavior in other public forums, when such behavior is in violation of this code of conduct. In particular, behaviors that are connected to affiliation to known hate groups will be scrutinized more actively. 
 - Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact the moderation team. Whether you’re a regular contributor or a newcomer, we are committed to making this community a safe place for you.
 - Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
+
 ## Moderation
 These are the policies for upholding our community’s standards of conduct. If you feel that a thread needs moderation, please contact the moderation team via <reporting@cockroachlabs.com>.
 
